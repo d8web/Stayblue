@@ -2,8 +2,11 @@
 
 <p>Criei essa página com Bootstrap 5 para testar a nova versão da ferramenta, foi bem simples e não tive grandes dificuldades.</p>
 
-<img src="https://github.com/d8web/projetoAgencia/blob/master/assets/images/Anima%C3%A7%C3%A3o.gif"/>
-<img src="https://github.com/d8web/projetoAgencia/blob/master/assets/images/Anima%C3%A7%C3%A3o.gif"/>
+<img src="https://github.com/d8web/Stayblue/blob/main/assets/images/Anima%C3%A7%C3%A3o.gif"/>
+
+<div style="text-align: center">
+    <img src="https://github.com/d8web/Stayblue/blob/main/assets/images/Anima%C3%A7%C3%A3oresponsiva.gif"/>
+</div>
 
 ### Features
 
