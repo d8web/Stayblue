@@ -4,9 +4,9 @@
 
 <img src="https://github.com/d8web/Stayblue/blob/main/assets/images/Anima%C3%A7%C3%A3o.gif"/>
 
-<div style="text-align: center">
+<p align="center">
     <img src="https://github.com/d8web/Stayblue/blob/main/assets/images/Anima%C3%A7%C3%A3oresponsiva.gif"/>
-</div>
+</p>
 
 ### Features
 
